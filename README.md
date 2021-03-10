@@ -2,7 +2,8 @@
 
 ## Tarea grupal
 
-## Este repo contiene: archivo con passwords inventadas por nosotros.
+## Este repo contiene: 
+Carpeta bloque2 -> Archivo con passwords inventadas por nosotros.
 
 ## Nota:
 Las password deben contener numeros,letras y un simbolo. Ejemplo zxcvbnm-3
